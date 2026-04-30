@@ -1,4 +1,5 @@
-# Assignment 9: This repository includes my work for Assignment 9. 
+# Assignment 9
+This repository includes my work for Assignment 9. 
 ## Files Included 
 - module09-assignment.py
 ## What I practiced 
